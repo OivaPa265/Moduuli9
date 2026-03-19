@@ -8,7 +8,7 @@ class Auto:
      self.nyt =0
      self. nopeus_nyt =0
 
-if __name__ == '__main__':
+
 # Antaa auto luokalle annetun tunnuksen sekä nopeuden
  Uusi_auto =Auto("ABC-123",142 )
 
