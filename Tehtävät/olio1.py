@@ -8,9 +8,8 @@ class Auto:
      self.nyt =0
      self. nopeus_nyt =0
 
-
 # Antaa auto luokalle annetun tunnuksen sekä nopeuden
- Uusi_auto =Auto("ABC-123",142 )
+Uusi_auto =Auto("ABC-123",142 )
 
 # printaa auton nopeuden, tunnuksen , matkan sekä nopeuden
 print("auto")
