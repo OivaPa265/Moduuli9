@@ -18,14 +18,12 @@ class Auto:
 # Antaa auto luokalle annetun tunnuksen sekä nopeuden
 auto = Auto("ABC-123", 142 )
 
-
 # printaa auton nopeuden eri kiihdytys vaiheissa
 print("kiihdykset")
 auto.kiihdyta(30)
 auto.kiihdyta(70)
 auto.kiihdyta(50)
 print(f"nopeus koko kiihtyvyyden jälkeen: {auto.nopeus_nyt}\n")
-
 
 # printaa auton nopeuden jarrutuksen jälkeen
 print("jarrutus")
